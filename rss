@@ -1,2 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerCast AI - Daily Tech News</title><description>AI-generated daily summaries of top Hacker News stories, covering the latest in technology, startups, and innovation.</description><link>https://github.com/sanzgiri/podcast-feed</link><language>en-us</language><itunes:author>HackerCast AI</itunes:author><itunes:summary>Stay updated with the latest tech news through AI-generated summaries of trending Hacker News stories.</itunes:summary><itunes:owner><itunes:name>HackerCast AI</itunes:name><itunes:email>sanzgiri@gmail.com</itunes:email></itunes:owner><itunes:category text="Technology"><itunes:category text="News" /></itunes:category><itunes:explicit>false</itunes:explicit><itunes:image href="https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/hackerpulse_img.jpg" /><image><url>https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/hackerpulse_img.jpg</url><title>HackerCast AI</title><link>https://github.com/sanzgiri/podcast-feed</link></image><atom:link href="https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/rss" rel="self" type="application/rss+xml" /><podcast:guid>hackercast-ai-daily-tech-news</podcast:guid><podcast:medium>podcast</podcast:medium><copyright>© 2025 HackerCast AI</copyright><managingEditor>sanzgiri@gmail.com (HackerCast AI)</managingEditor><webMaster>sanzgiri@gmail.com (HackerCast AI)</webMaster><lastBuildDate>Tue, 14 Oct 2025 22:55:14 +0000</lastBuildDate><item><title>October 14, 2025: Media Stands Against New Pentagon Press Rules</title><description>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</description><link>https://drive.google.com/uc?export=download&amp;id=1qL4W-Mvl0x2ELsqLxV7c0YGvHLmEUc12&amp;name=hn_transcript_10142025.mp3</link><author>sanzgiri@gmail.com (HackerCast AI)</author><itunes:author>HackerCast AI</itunes:author><itunes:summary>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</itunes:summary><itunes:explicit>false</itunes:explicit><pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate><guid isPermaLink="false">hackercast-10142025</guid><enclosure url="https://drive.google.com/uc?export=download&amp;id=1qL4W-Mvl0x2ELsqLxV7c0YGvHLmEUc12&amp;name=hn_transcript_10142025.mp3" type="audio/mpeg" length="423201" /></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>HackerCast AI - Daily Tech News</title>
+    <description>AI-generated daily summaries of top Hacker News stories, covering the latest in technology, startups, and innovation.</description>
+    <link>https://github.com/sanzgiri/podcast-feed</link>
+    <language>en-us</language>
+    <itunes:author>HackerCast AI</itunes:author>
+    <itunes:summary>Stay updated with the latest tech news through AI-generated summaries of trending Hacker News stories.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>HackerCast AI</itunes:name>
+      <itunes:email>sanzgiri@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="News" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/hackerpulse_img.jpg" />
+    <image>
+      <url>https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/hackerpulse_img.jpg</url>
+      <title>HackerCast AI</title>
+      <link>https://github.com/sanzgiri/podcast-feed</link>
+    </image>
+    <atom:link href="https://raw.githubusercontent.com/sanzgiri/podcast-feed/main/rss" rel="self" type="application/rss+xml" />
+    <podcast:guid>hackercast-ai-daily-tech-news</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <copyright>© 2025 HackerCast AI</copyright>
+    <managingEditor>sanzgiri@gmail.com (HackerCast AI)</managingEditor>
+    <webMaster>sanzgiri@gmail.com (HackerCast AI)</webMaster>
+    <lastBuildDate>Tue, 14 Oct 2025 23:01:10 +0000</lastBuildDate>
+    <item>
+      <title>October 14, 2025: Media Stands Against New Pentagon Press Rules</title>
+      <description>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</description>
+      <link>https://drive.google.com/uc?export=download&amp;id=1LcXcNCY4WbuFds8hkM_VhPeL68zKEFCM&amp;name=hn_transcript_10142025.mp3</link>
+      <author>sanzgiri@gmail.com (HackerCast AI)</author>
+      <itunes:author>HackerCast AI</itunes:author>
+      <itunes:summary>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hackercast-10142025</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LcXcNCY4WbuFds8hkM_VhPeL68zKEFCM&amp;name=hn_transcript_10142025.mp3" type="audio/mpeg" length="423201" />
+    </item>
+  </channel>
+</rss>
