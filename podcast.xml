@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   
   
   
@@ -21,14 +21,6 @@
     
     
     
-    <item>
-      <title>October 14, 2025: Media Stands Against New Pentagon Press Rules</title>
-      <description>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</description>
-      <link>https://drive.google.com/uc?export=download&amp;id=1VlAMhkUQdhXQtp3ZsVKfk9HGEssh8s7s</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hackercast-10142025</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VlAMhkUQdhXQtp3ZsVKfk9HGEssh8s7s" type="audio/mpeg" length="5000000"/>
-    </item>
     <title>Hacker Pulse</title>
     
     
@@ -73,7 +65,7 @@
     
     
     
-    <lastBuildDate>Wed, 15 Oct 2025 04:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 22:45:44 +0000</lastBuildDate>
     
     
     
@@ -84,7 +76,7 @@
     
     
     
-    <ns0:link href="https://anchor.fm/s/fb3dd410/podcast/rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://anchor.fm/s/fb3dd410/podcast/rss" rel="self" type="application/rss+xml" />
     
     
     
@@ -128,7 +120,7 @@
     
     
     
-    <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     
     
     
@@ -139,7 +131,7 @@
     
     
     
-    <ns1:author>Ashutosh Sanzgiri</ns1:author>
+    <itunes:author>Ashutosh Sanzgiri</itunes:author>
     
     
     
@@ -150,7 +142,7 @@
     
     
     
-    <ns1:summary>&lt;p&gt;Top-voted posts on Hacker News summarized and narrated by AI. &lt;/p&gt;</ns1:summary>
+    <itunes:summary>&lt;p&gt;Top-voted posts on Hacker News summarized and narrated by AI. &lt;/p&gt;</itunes:summary>
     
     
     
@@ -161,7 +153,7 @@
     
     
     
-    <ns1:type>episodic</ns1:type>
+    <itunes:type>episodic</itunes:type>
     
     
     
@@ -172,7 +164,7 @@
     
     
     
-    <ns1:owner>
+    <itunes:owner>
       
       
       
@@ -183,7 +175,7 @@
       
       
       
-      <ns1:name>Ashutosh Sanzgiri</ns1:name>
+      <itunes:name>Ashutosh Sanzgiri</itunes:name>
       
       
       
@@ -194,7 +186,7 @@
       
       
       
-      <ns1:email/>
+      <itunes:email />
       
       
       
@@ -205,7 +197,7 @@
     
     
     
-    </ns1:owner>
+    </itunes:owner>
     
     
     
@@ -216,7 +208,7 @@
     
     
     
-    <ns1:explicit>false</ns1:explicit>
+    <itunes:explicit>false</itunes:explicit>
     
     
     
@@ -227,7 +219,7 @@
     
     
     
-    <ns1:category text="News">
+    <itunes:category text="News">
       
       
       
@@ -238,7 +230,7 @@
       
       
       
-      <ns1:category text="Tech News"/>
+      <itunes:category text="Tech News" />
       
       
       
@@ -249,7 +241,7 @@
     
     
     
-    </ns1:category>
+    </itunes:category>
     
     
     
@@ -260,7 +252,7 @@
     
     
     
-    <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
     
     
     
@@ -271,7 +263,7 @@
     
     
     
-    <item>
+    <item><title>October 14, 2025: Media Stands Against New Pentagon Press Rules</title><description>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</description><link>https://drive.google.com/uc?export=download&amp;id=1DgDYdln2dTQM1vRMFnjAEDJc6YFhMh1u</link><author>sanzgiri@gmail.com (HackerCast AI)</author><itunes:author>HackerCast AI</itunes:author><itunes:summary>In this episode of Hackerpulse, we discuss the significant pushback from major media outlets against the Department of Defense’s new press-access rules. These policies threaten to limit journalists' access and oversight of military operations, raising concerns about First Amendment rights and the free flow of information. Tune in for a breakdown of this developing story and its implications for journalism and democracy.</itunes:summary><itunes:explicit>false</itunes:explicit><pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate><guid isPermaLink="false">hackercast-10142025</guid><enclosure url="https://drive.google.com/uc?export=download&amp;id=1DgDYdln2dTQM1vRMFnjAEDJc6YFhMh1u" type="audio/mpeg" length="423201" /></item><item>
       
       
       
@@ -349,7 +341,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F8bd8bf2b-9273-539b-b636-78049fda3c1f.mp3" length="2038822" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F8bd8bf2b-9273-539b-b636-78049fda3c1f.mp3" length="2038822" type="audio/mpeg" />
       
       
       
@@ -360,8 +352,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore the latest developments in technology, including the launch of Svelte 5 and its impact on web development, a groundbreaking AI algorithm that reduces energy consumption, and the NHTSA's investigation into Tesla's Full Self-Driving software. We also discuss user experience challenges, the evolution of the Linux kernel, and a curated reading list for distributed systems. Tune in for a concise summary of these top stories from HackerNews!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore the latest developments in technology, including the launch of Svelte 5 and its impact on web development, a groundbreaking AI algorithm that reduces energy consumption, and the NHTSA's investigation into Tesla's Full Self-Driving software. We also discuss user experience challenges, the evolution of the Linux kernel, and a curated reading list for distributed systems. Tune in for a concise summary of these top stories from HackerNews!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -372,7 +364,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -383,7 +375,7 @@
       
       
       
-      <ns1:duration>00:08:29</ns1:duration>
+      <itunes:duration>00:08:29</itunes:duration>
       
       
       
@@ -394,7 +386,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -405,7 +397,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -505,7 +497,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F79a68034-0cd1-b836-f634-92c555f5ead1.mp3" length="2309659" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F79a68034-0cd1-b836-f634-92c555f5ead1.mp3" length="2309659" type="audio/mpeg" />
       
       
       
@@ -516,8 +508,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In today's episode, we explore a landmark ruling on 3D scans in French museums, Apple's innovative password generation method, and Alex Chan's unique approach to digital archivization through static websites. We also cover the FTC's investigation into John Deere's repair practices, the evolving dynamics between Microsoft and OpenAI, a Go developer's performance optimization project, and the remarkable story of Tim Jenkin's encrypted communications during apartheid. Lastly, we discuss the performance enhancements in .NET 9.0 and delve into the intricate resource management in Factorio. Tune in for a comprehensive summary of today's top stories!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In today's episode, we explore a landmark ruling on 3D scans in French museums, Apple's innovative password generation method, and Alex Chan's unique approach to digital archivization through static websites. We also cover the FTC's investigation into John Deere's repair practices, the evolving dynamics between Microsoft and OpenAI, a Go developer's performance optimization project, and the remarkable story of Tim Jenkin's encrypted communications during apartheid. Lastly, we discuss the performance enhancements in .NET 9.0 and delve into the intricate resource management in Factorio. Tune in for a comprehensive summary of today's top stories!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -528,7 +520,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -539,7 +531,7 @@
       
       
       
-      <ns1:duration>00:09:37</ns1:duration>
+      <itunes:duration>00:09:37</itunes:duration>
       
       
       
@@ -550,7 +542,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -561,7 +553,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -661,7 +653,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F122d0b07-2ffd-b3b0-f72c-3ab0c8dcd86b.mp3" length="2207468" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F122d0b07-2ffd-b3b0-f72c-3ab0c8dcd86b.mp3" length="2207468" type="audio/mpeg" />
       
       
       
@@ -672,8 +664,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt; In this episode of Hackerpulse, we explore Adobe's Project Turntable, a revolutionary AI tool for 3D vector art, the discovery of serious vulnerabilities in the Chromium browser, and the fascinating rise of the Canadian game Crokinole. We also delve into game development with Lisp, Kagi's new AI image filter, the troubling feud within the WordPress community, and insights from a study on the unique flexibility of cats. Plus, we touch on the launch of NotebookLM's latest features and Microsoft's OpenVMM project. Tune in for a summary of today's top stories from HackerNews!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt; In this episode of Hackerpulse, we explore Adobe's Project Turntable, a revolutionary AI tool for 3D vector art, the discovery of serious vulnerabilities in the Chromium browser, and the fascinating rise of the Canadian game Crokinole. We also delve into game development with Lisp, Kagi's new AI image filter, the troubling feud within the WordPress community, and insights from a study on the unique flexibility of cats. Plus, we touch on the launch of NotebookLM's latest features and Microsoft's OpenVMM project. Tune in for a summary of today's top stories from HackerNews!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -684,7 +676,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -695,7 +687,7 @@
       
       
       
-      <ns1:duration>00:09:11</ns1:duration>
+      <itunes:duration>00:09:11</itunes:duration>
       
       
       
@@ -706,7 +698,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -717,7 +709,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -817,7 +809,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2Fb6cc4228-4fb8-3472-cdb9-1609c1dd4504.mp3" length="2292210" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2Fb6cc4228-4fb8-3472-cdb9-1609c1dd4504.mp3" length="2292210" type="audio/mpeg" />
       
       
       
@@ -828,8 +820,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore the Federal Trade Commission's new 'click-to-cancel' rule aimed at simplifying subscription cancellations, and dive into ArchiveBox's enhancements for self-hosted internet archiving. We also discuss the launch of FLOSS/fund to support FOSS development, potential security implications for macOS users, and the revival of the Internet Archive's Wayback Machine after security breaches. Plus, we look at the challenges faced by Winamp's open-source efforts, Douglas Hofstadter's reflections on Lisp, recent PII concerns at Redbox, and the disappointing performance of Qualcomm's NPUs. Join us for a deep dive into today's top tech stories!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore the Federal Trade Commission's new 'click-to-cancel' rule aimed at simplifying subscription cancellations, and dive into ArchiveBox's enhancements for self-hosted internet archiving. We also discuss the launch of FLOSS/fund to support FOSS development, potential security implications for macOS users, and the revival of the Internet Archive's Wayback Machine after security breaches. Plus, we look at the challenges faced by Winamp's open-source efforts, Douglas Hofstadter's reflections on Lisp, recent PII concerns at Redbox, and the disappointing performance of Qualcomm's NPUs. Join us for a deep dive into today's top tech stories!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -840,7 +832,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -851,7 +843,7 @@
       
       
       
-      <ns1:duration>00:09:32</ns1:duration>
+      <itunes:duration>00:09:32</itunes:duration>
       
       
       
@@ -862,7 +854,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -873,7 +865,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -973,7 +965,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F5833b762-c4bb-3c96-4557-087441881d4e.mp3" length="2273088" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F5833b762-c4bb-3c96-4557-087441881d4e.mp3" length="2273088" type="audio/mpeg" />
       
       
       
@@ -984,8 +976,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt; In this episode of Hackerpulse, we delve into the latest tech innovations and creative projects making waves on HackerNews. From the upcoming book on web browser engineering to an over-engineered emoji generator, we cover a range of topics that highlight the intersection of technology and creativity. Additionally, we discuss SQLite's new WebAssembly capabilities, the transformative C23 edition of Modern C, and exciting developments in Minecraft server technology. Join us as we explore groundbreaking archaeological projects, advances in AI hardware by Meta, and the innovative Mothbox for biodiversity studies. Plus, get the scoop on Apple's latest iPad mini release. Tune in for all this and more!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt; In this episode of Hackerpulse, we delve into the latest tech innovations and creative projects making waves on HackerNews. From the upcoming book on web browser engineering to an over-engineered emoji generator, we cover a range of topics that highlight the intersection of technology and creativity. Additionally, we discuss SQLite's new WebAssembly capabilities, the transformative C23 edition of Modern C, and exciting developments in Minecraft server technology. Join us as we explore groundbreaking archaeological projects, advances in AI hardware by Meta, and the innovative Mothbox for biodiversity studies. Plus, get the scoop on Apple's latest iPad mini release. Tune in for all this and more!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -996,7 +988,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1007,7 +999,7 @@
       
       
       
-      <ns1:duration>00:09:28</ns1:duration>
+      <itunes:duration>00:09:28</itunes:duration>
       
       
       
@@ -1018,7 +1010,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1029,7 +1021,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1129,7 +1121,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F270a9fff-554e-f3fd-780d-b17db210c57e.mp3" length="2057212" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F270a9fff-554e-f3fd-780d-b17db210c57e.mp3" length="2057212" type="audio/mpeg" />
       
       
       
@@ -1140,8 +1132,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore a range of exciting topics, including the productivity-enhancing Busy Status Bar tool, the open-source Huly project management platform, and Google's bold investment in nuclear energy. We also discuss the open-source Python client for the Colmi R02 smart ring, the evolving web experiences influenced by immersive technologies, the handy clipscreen tool for screen sharing, and Uber's MySQL database upgrade. Moreover, we take a look at the potential of Rust on embedded platforms and the upcoming NASA Europa Clipper mission. Tune in for these insights and more!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore a range of exciting topics, including the productivity-enhancing Busy Status Bar tool, the open-source Huly project management platform, and Google's bold investment in nuclear energy. We also discuss the open-source Python client for the Colmi R02 smart ring, the evolving web experiences influenced by immersive technologies, the handy clipscreen tool for screen sharing, and Uber's MySQL database upgrade. Moreover, we take a look at the potential of Rust on embedded platforms and the upcoming NASA Europa Clipper mission. Tune in for these insights and more!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1152,7 +1144,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1163,7 +1155,7 @@
       
       
       
-      <ns1:duration>00:08:34</ns1:duration>
+      <itunes:duration>00:08:34</itunes:duration>
       
       
       
@@ -1174,7 +1166,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1185,7 +1177,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1285,7 +1277,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2Fb416e2a2-5458-a360-7e5f-6f33ce33941c.mp3" length="2087410" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/93278692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2Fb416e2a2-5458-a360-7e5f-6f33ce33941c.mp3" length="2087410" type="audio/mpeg" />
       
       
       
@@ -1296,8 +1288,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In today's episode of Hackerpulse, we explore a variety of topics including Weird Gloop's efforts to assist wikis in migrating away from Fandom, the launch of DeskPad for better screen sharing, Asahi Linux's advancements for gaming on M1 devices, and the passing of industrialist Ratan Tata. Plus, we discuss Tenno's new hybrid document creation tool, The Copenhagen Book for web app authentication, the rise of WebAssembly, the assessment of animation quality, a beginner's HTML guide, and a critique of movie spoilers in classic film screenings.&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In today's episode of Hackerpulse, we explore a variety of topics including Weird Gloop's efforts to assist wikis in migrating away from Fandom, the launch of DeskPad for better screen sharing, Asahi Linux's advancements for gaming on M1 devices, and the passing of industrialist Ratan Tata. Plus, we discuss Tenno's new hybrid document creation tool, The Copenhagen Book for web app authentication, the rise of WebAssembly, the assessment of animation quality, a beginner's HTML guide, and a critique of movie spoilers in classic film screenings.&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1308,7 +1300,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1319,7 +1311,7 @@
       
       
       
-      <ns1:duration>00:08:41</ns1:duration>
+      <itunes:duration>00:08:41</itunes:duration>
       
       
       
@@ -1330,7 +1322,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1341,7 +1333,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1441,7 +1433,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F20f43ada-57a1-3de9-e6a5-b871da3f229b.mp3" length="1808213" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F20f43ada-57a1-3de9-e6a5-b871da3f229b.mp3" length="1808213" type="audio/mpeg" />
       
       
       
@@ -1452,8 +1444,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore the launch of Ruby on Rails 8 and its impact on developer productivity. We delve into an innovative hardware hack using a cigarette lighter for EMFI and discuss the legal ruling pushing Google to open its Android ecosystem. You'll hear about the humorous misuse of AI with Google's NotebookLLM, the rise of AI-generated images in search results, ongoing antitrust actions against Amazon, and the influence of Silicon Valley on political dynamics. Plus, we break down essential HTTP server mechanisms and the latest enhancements in the uBlock project. Tune in for all this and more!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore the launch of Ruby on Rails 8 and its impact on developer productivity. We delve into an innovative hardware hack using a cigarette lighter for EMFI and discuss the legal ruling pushing Google to open its Android ecosystem. You'll hear about the humorous misuse of AI with Google's NotebookLLM, the rise of AI-generated images in search results, ongoing antitrust actions against Amazon, and the influence of Silicon Valley on political dynamics. Plus, we break down essential HTTP server mechanisms and the latest enhancements in the uBlock project. Tune in for all this and more!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1464,7 +1456,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1475,7 +1467,7 @@
       
       
       
-      <ns1:duration>00:07:31</ns1:duration>
+      <itunes:duration>00:07:31</itunes:duration>
       
       
       
@@ -1486,7 +1478,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1497,7 +1489,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1597,7 +1589,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fda43ec6f-9d3a-a612-201b-4f5106289513.mp3" length="2159508" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fda43ec6f-9d3a-a612-201b-4f5106289513.mp3" length="2159508" type="audio/mpeg" />
       
       
       
@@ -1608,8 +1600,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;n this episode of HackerPulse, we explore Sam Altman's bold claims on AI's future against the backdrop of OpenAI's soaring valuation. Discover how Linux From Scratch empowers developers, celebrate Cloudflare's recent victory over a patent troll, and delve into 'The Remarkable Life of Ibelin'—a touching story of virtual friendships. We also discuss the effects of private equity on emergency care, the history of the Globus INK navigation computer, and the emergence of generative AI in the legal field. Tune in for a comprehensive look at today's tech highlights!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;n this episode of HackerPulse, we explore Sam Altman's bold claims on AI's future against the backdrop of OpenAI's soaring valuation. Discover how Linux From Scratch empowers developers, celebrate Cloudflare's recent victory over a patent troll, and delve into 'The Remarkable Life of Ibelin'—a touching story of virtual friendships. We also discuss the effects of private equity on emergency care, the history of the Globus INK navigation computer, and the emergence of generative AI in the legal field. Tune in for a comprehensive look at today's tech highlights!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1620,7 +1612,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1631,7 +1623,7 @@
       
       
       
-      <ns1:duration>00:08:59</ns1:duration>
+      <itunes:duration>00:08:59</itunes:duration>
       
       
       
@@ -1642,7 +1634,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1653,7 +1645,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1753,7 +1745,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fbb281f1c-b3f0-6d60-d402-f00a94044abc.mp3" length="2121160" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92726753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fbb281f1c-b3f0-6d60-d402-f00a94044abc.mp3" length="2121160" type="audio/mpeg" />
       
       
       
@@ -1764,8 +1756,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse for October 3, 2024, we cover Cloudflare's victory over a patent troll, the launch of OpenAI's Canvas platform, ongoing legal disputes in the WordPress ecosystem, and significant updates on terminal color management. We also discuss Gumroad's choice to pivot from htmx to React, the effects of excessive screen time on adult brains, and the implications of the UK's Chagos Islands plan on the .io domain. Plus, Starlink's support for Hurricane Helene victims and Google's commitment to a flexible work model. Stay tuned for the latest and most relevant discussions from the tech community!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse for October 3, 2024, we cover Cloudflare's victory over a patent troll, the launch of OpenAI's Canvas platform, ongoing legal disputes in the WordPress ecosystem, and significant updates on terminal color management. We also discuss Gumroad's choice to pivot from htmx to React, the effects of excessive screen time on adult brains, and the implications of the UK's Chagos Islands plan on the .io domain. Plus, Starlink's support for Hurricane Helene victims and Google's commitment to a flexible work model. Stay tuned for the latest and most relevant discussions from the tech community!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1776,7 +1768,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1787,7 +1779,7 @@
       
       
       
-      <ns1:duration>00:08:50</ns1:duration>
+      <itunes:duration>00:08:50</itunes:duration>
       
       
       
@@ -1798,7 +1790,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1809,7 +1801,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -1909,7 +1901,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92475065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-2%2F38312ebf-7cf9-949f-02eb-bc95d7508221.mp3" length="2171210" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92475065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-2%2F38312ebf-7cf9-949f-02eb-bc95d7508221.mp3" length="2171210" type="audio/mpeg" />
       
       
       
@@ -1920,8 +1912,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore the latest top stories from HackerNews, including a revolutionary custom wheelchair designed to disrupt the market, the takedown of the popular Nintendo Switch emulator Ryujinx, and an in-depth look at the complexities of global sand scarcity. We also discuss the backlash against Y Combinator for funding a clone project, a controversial move by Mozilla regarding uBlock Origin, and the emergence of AI video agents capable of real-time interaction. Join us as we navigate the evolving landscape of technology and innovation!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore the latest top stories from HackerNews, including a revolutionary custom wheelchair designed to disrupt the market, the takedown of the popular Nintendo Switch emulator Ryujinx, and an in-depth look at the complexities of global sand scarcity. We also discuss the backlash against Y Combinator for funding a clone project, a controversial move by Mozilla regarding uBlock Origin, and the emergence of AI video agents capable of real-time interaction. Join us as we navigate the evolving landscape of technology and innovation!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -1932,7 +1924,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -1943,7 +1935,7 @@
       
       
       
-      <ns1:duration>00:09:02</ns1:duration>
+      <itunes:duration>00:09:02</itunes:duration>
       
       
       
@@ -1954,7 +1946,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -1965,7 +1957,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2065,7 +2057,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92422896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-1%2Fb1e22bdb-bc72-ee8f-dc52-a72dd7450a7b.mp3" length="2217186" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92422896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-1%2Fb1e22bdb-bc72-ee8f-dc52-a72dd7450a7b.mp3" length="2217186" type="audio/mpeg" />
       
       
       
@@ -2076,8 +2068,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of Hackerpulse, we explore the fascinating 'Bop Spotter' project monitoring street-level music in San Francisco, Google's NotebookLM's new podcast-generating feature, and Y Combinator's evolving investment strategy. We'll also discuss California's ban on legacy admissions at private universities, the release of Screenpipe for AI development, Arch Linux's collaboration with Valve, and much more. Tune in for a roundup of today's top stories from HackerNews!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of Hackerpulse, we explore the fascinating 'Bop Spotter' project monitoring street-level music in San Francisco, Google's NotebookLM's new podcast-generating feature, and Y Combinator's evolving investment strategy. We'll also discuss California's ban on legacy admissions at private universities, the release of Screenpipe for AI development, Arch Linux's collaboration with Valve, and much more. Tune in for a roundup of today's top stories from HackerNews!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -2088,7 +2080,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2099,7 +2091,7 @@
       
       
       
-      <ns1:duration>00:09:14</ns1:duration>
+      <itunes:duration>00:09:14</itunes:duration>
       
       
       
@@ -2110,7 +2102,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2121,7 +2113,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2221,7 +2213,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92366935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2Fae9b8b8f-bdac-46a9-2f8b-a665de88e77c.mp3" length="2258444" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92366935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2Fae9b8b8f-bdac-46a9-2f8b-a665de88e77c.mp3" length="2258444" type="audio/mpeg" />
       
       
       
@@ -2232,8 +2224,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore the complexities of efficiency versus effectiveness through Jascha Sohl-Dickstein's captivating blog, and Julia Evans shares her journey with Go for web development. The episode also covers California Governor Gavin Newsom's recent veto on AI regulation, a discussion on progressive enhancement in web services, and the FTC's alarming report on corporate surveillance. We'll also highlight the urgent maritime crisis with the MV Ruby, introduce the groundbreaking Flex-RV microprocessor, debate the role of web components in development, showcase the Mundraub project for urban foraging, and dive into mixed experiences with the Crystal programming language.&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore the complexities of efficiency versus effectiveness through Jascha Sohl-Dickstein's captivating blog, and Julia Evans shares her journey with Go for web development. The episode also covers California Governor Gavin Newsom's recent veto on AI regulation, a discussion on progressive enhancement in web services, and the FTC's alarming report on corporate surveillance. We'll also highlight the urgent maritime crisis with the MV Ruby, introduce the groundbreaking Flex-RV microprocessor, debate the role of web components in development, showcase the Mundraub project for urban foraging, and dive into mixed experiences with the Crystal programming language.&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -2244,7 +2236,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2255,7 +2247,7 @@
       
       
       
-      <ns1:duration>00:09:24</ns1:duration>
+      <itunes:duration>00:09:24</itunes:duration>
       
       
       
@@ -2266,7 +2258,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2277,7 +2269,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2377,7 +2369,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92335646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-29%2F1fb562ef-1974-34b2-fdec-2d5fd597909b.mp3" length="2290220" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92335646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-29%2F1fb562ef-1974-34b2-fdec-2d5fd597909b.mp3" length="2290220" type="audio/mpeg" />
       
       
       
@@ -2388,8 +2380,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of Hackerpulse, we delve into groundbreaking developments, including a new FFT-based ocean-wave rendering project in Godot, an analysis of the societal implications from Neil Postman's insights on media, and the upcoming features in Python 3.13 aimed at enhancing performance. We also cover critical discussions around the transition from 32-bit to 64-bit time_t systems, Meta's hefty GDPR fine, the role of deliberate practice in cultivating creativity, and the unveiling of mtCellEdit, a lightweight spreadsheet tool. Additionally, we’ll explore the reverse-engineering of the F-4 Phantom II's attitude indicator, showcasing the intricate world of aviation technology.&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of Hackerpulse, we delve into groundbreaking developments, including a new FFT-based ocean-wave rendering project in Godot, an analysis of the societal implications from Neil Postman's insights on media, and the upcoming features in Python 3.13 aimed at enhancing performance. We also cover critical discussions around the transition from 32-bit to 64-bit time_t systems, Meta's hefty GDPR fine, the role of deliberate practice in cultivating creativity, and the unveiling of mtCellEdit, a lightweight spreadsheet tool. Additionally, we’ll explore the reverse-engineering of the F-4 Phantom II's attitude indicator, showcasing the intricate world of aviation technology.&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -2400,7 +2392,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2411,7 +2403,7 @@
       
       
       
-      <ns1:duration>00:09:32</ns1:duration>
+      <itunes:duration>00:09:32</itunes:duration>
       
       
       
@@ -2422,7 +2414,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2433,7 +2425,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2533,7 +2525,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92306944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-28%2F0f72d9fb-2635-da33-8042-23914c8ac051.mp3" length="2160716" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92306944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-28%2F0f72d9fb-2635-da33-8042-23914c8ac051.mp3" length="2160716" type="audio/mpeg" />
       
       
       
@@ -2544,8 +2536,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we discuss the growing skepticism surrounding AI advancements and the importance of human creativity in tech. Our journey continues through a troubling exploration of fraud within scientific research and its implications for academic integrity. We also uncover the deceptive practices in online affiliate marketing, as well as the ambitious yet controversial semiconductor investment proposals from OpenAI's CEO. Remembering the legendary Dame Maggie Smith, we reflect on her impactful legacy, and we look at California's new laws that enhance consumer rights for digital goods. Join us as we navigate these thought-provoking stories from HackerNews!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we discuss the growing skepticism surrounding AI advancements and the importance of human creativity in tech. Our journey continues through a troubling exploration of fraud within scientific research and its implications for academic integrity. We also uncover the deceptive practices in online affiliate marketing, as well as the ambitious yet controversial semiconductor investment proposals from OpenAI's CEO. Remembering the legendary Dame Maggie Smith, we reflect on her impactful legacy, and we look at California's new laws that enhance consumer rights for digital goods. Join us as we navigate these thought-provoking stories from HackerNews!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -2556,7 +2548,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2567,7 +2559,7 @@
       
       
       
-      <ns1:duration>00:09:00</ns1:duration>
+      <itunes:duration>00:09:00</itunes:duration>
       
       
       
@@ -2578,7 +2570,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2589,7 +2581,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2689,7 +2681,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92260569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-27%2F9af58490-a1a1-a7f1-588c-f84c27617444.mp3" length="2241164" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92260569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-27%2F9af58490-a1a1-a7f1-588c-f84c27617444.mp3" length="2241164" type="audio/mpeg" />
       
       
       
@@ -2700,8 +2692,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of HackerPulse, we explore OpenAI&amp;#39;s shift to a for-profit model and its implications for AI development, delve into PostgreSQL 17&amp;#39;s impressive upgrades, and discover Git-absorb&amp;#39;s new automation tool for managing commits. We reflect on the stagnation in the Rust programming language, discuss the escalating conflict between WordPress.org and WP Engine, uncover vulnerabilities in Kia vehicles, and highlight significant updates in Tcl/Tk 9.0. We also cover a federal court&amp;#39;s ruling against Library Genesis, a penalty for DoNotPay from the FTC, and alarming vulnerabilities in CUPS on UNIX systems. Join us for a comprehensive overview of these important stories!&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;In this episode of HackerPulse, we explore OpenAI&amp;#39;s shift to a for-profit model and its implications for AI development, delve into PostgreSQL 17&amp;#39;s impressive upgrades, and discover Git-absorb&amp;#39;s new automation tool for managing commits. We reflect on the stagnation in the Rust programming language, discuss the escalating conflict between WordPress.org and WP Engine, uncover vulnerabilities in Kia vehicles, and highlight significant updates in Tcl/Tk 9.0. We also cover a federal court&amp;#39;s ruling against Library Genesis, a penalty for DoNotPay from the FTC, and alarming vulnerabilities in CUPS on UNIX systems. Join us for a comprehensive overview of these important stories!&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -2712,7 +2704,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2723,7 +2715,7 @@
       
       
       
-      <ns1:duration>00:09:20</ns1:duration>
+      <itunes:duration>00:09:20</itunes:duration>
       
       
       
@@ -2734,7 +2726,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2745,7 +2737,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -2846,7 +2838,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92216817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F2093e989-247e-fd38-ecd5-903d08ecdb62.mp3" length="2151884" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92216817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F2093e989-247e-fd38-ecd5-903d08ecdb62.mp3" length="2151884" type="audio/mpeg" />
       
       
       
@@ -2857,9 +2849,9 @@
       
       
       
-      <ns1:summary>&lt;p&gt;In this episode of Hackerpulse, we explore Meta&amp;#39;s unveiling of Orion augmented reality glasses, the departure of AI leader Mira Murati from OpenAI, and a blogger&amp;#39;s journey through 15 years of writing. We also discuss Meta&amp;#39;s latest AI model Llama 3.2, updates from NIST on password guidelines,&lt;/p&gt;
+      <itunes:summary>&lt;p&gt;In this episode of Hackerpulse, we explore Meta&amp;#39;s unveiling of Orion augmented reality glasses, the departure of AI leader Mira Murati from OpenAI, and a blogger&amp;#39;s journey through 15 years of writing. We also discuss Meta&amp;#39;s latest AI model Llama 3.2, updates from NIST on password guidelines,&lt;/p&gt;
 &lt;p&gt;Wafris transitioning to SQLite, resourceful tools for GPON technology, SQL tips from GitHub, and a look back at innovative features in MetaWare&amp;#39;s High C compiler. Plus, we touch on the important case of Marcellus Williams and the ongoing discussions around wrongful convictions and capital punishment.&lt;/p&gt;
-</ns1:summary>
+</itunes:summary>
       
       
       
@@ -2870,7 +2862,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -2881,7 +2873,7 @@
       
       
       
-      <ns1:duration>00:08:57</ns1:duration>
+      <itunes:duration>00:08:57</itunes:duration>
       
       
       
@@ -2892,7 +2884,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -2903,7 +2895,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -3003,7 +2995,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92214720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F07e06b61-56e3-0c8c-0258-b11e5e316b6a.mp3" length="2332844" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92214720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F07e06b61-56e3-0c8c-0258-b11e5e316b6a.mp3" length="2332844" type="audio/mpeg" />
       
       
       
@@ -3014,8 +3006,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;Top 10 news articles from Hacker News 09/24&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;Top 10 news articles from Hacker News 09/24&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -3026,7 +3018,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -3037,7 +3029,7 @@
       
       
       
-      <ns1:duration>00:09:43</ns1:duration>
+      <itunes:duration>00:09:43</itunes:duration>
       
       
       
@@ -3048,7 +3040,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -3059,7 +3051,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -3159,7 +3151,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92024117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F9e9f402b-0836-5d60-f46f-d398776d8321.mp3" length="1532972" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/92024117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F9e9f402b-0836-5d60-f46f-d398776d8321.mp3" length="1532972" type="audio/mpeg" />
       
       
       
@@ -3170,8 +3162,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;Hacker Pulse 09/15&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;Hacker Pulse 09/15&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -3182,7 +3174,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -3193,7 +3185,7 @@
       
       
       
-      <ns1:duration>00:06:23</ns1:duration>
+      <itunes:duration>00:06:23</itunes:duration>
       
       
       
@@ -3204,7 +3196,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
@@ -3215,7 +3207,7 @@
       
       
       
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       
       
       
@@ -3315,7 +3307,7 @@
       
       
       
-      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/91897643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F386613987-44100-1-ee9b6ef5fe21f2f2.mp3" length="3916321" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/fb3dd410/podcast/play/91897643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F386613987-44100-1-ee9b6ef5fe21f2f2.mp3" length="3916321" type="audio/mpeg" />
       
       
       
@@ -3326,8 +3318,8 @@
       
       
       
-      <ns1:summary>&lt;p&gt;Top 5 Hacker News stories from Aug 11, 2024&lt;/p&gt;
-</ns1:summary>
+      <itunes:summary>&lt;p&gt;Top 5 Hacker News stories from Aug 11, 2024&lt;/p&gt;
+</itunes:summary>
       
       
       
@@ -3338,7 +3330,7 @@
       
       
       
-      <ns1:explicit>false</ns1:explicit>
+      <itunes:explicit>false</itunes:explicit>
       
       
       
@@ -3349,7 +3341,7 @@
       
       
       
-      <ns1:duration>00:04:04</ns1:duration>
+      <itunes:duration>00:04:04</itunes:duration>
       
       
       
@@ -3360,7 +3352,7 @@
       
       
       
-      <ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg"/>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42051332/42051332-1726981008034-96042421ae636.jpg" />
       
       
       
